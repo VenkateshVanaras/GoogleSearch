@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.cancel-icon {
+  height: 20px;
+  width: 20px;
+}
+.list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.button-class {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: point;
+  outline: none;
+}
